@@ -10,7 +10,7 @@ Serve this folder with any static web server, for example `python3 -m http.serve
 
 ## GitHub Pages
 
-Under Settings > Pages, choose Deploy from a branch, main, and /(root), then Save.
+Upload this folder's contents to the root of the main branch. Under Settings > Pages, choose Deploy from a branch, main, and /(root), then Save.
 
 ## Tests
 
